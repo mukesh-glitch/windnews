@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Donald Trump: What we learned from his rally in Pennsylvania - BBC",
+            "description": "The ex-president spoke for two hours at his first rally since the search - here is what we learned.",
+            "url": "https://www.bbc.com/news/world-us-canada-62761333",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CD30/production/_126582525_1a1d6549ac195b8190efe378c00cd2c69483be540_0_2761_18371000x665.jpg",
+            "publishedAt": "2022-09-04T04:15:20Z",
+            "content": "By Kayla Epsteinin Wilkes-Barre, Pennsylvania\r\nDonald Trump has called President Joe Biden an \"enemy of the state\" at his first rally since the FBI searched his Florida resort for sensitive files.\r\nS… [+6637 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rebekah Riess and Jay Croft, CNN",
+            "title": "California wildfires grow as evacuations are ordered - CNN",
+            "description": "The lone top-five matchup of Week 1 was just as exciting as expected",
+            "url": "https://www.cnn.com/2022/09/03/us/northern-california-wildfires/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220903132408-01-northern-california-wildfires-super-tease.jpg",
+            "publishedAt": "2022-09-04T04:15:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Tom Fornelli",
+            "title": "Ohio State vs. Notre Dame score, takeaways: No. 2 Buckeyes battle back to overcome No. 5 Fighting Irish - CBS Sports",
+            "description": "The lone top-five matchup of Week 1 was just as exciting as expected",
+            "url": "https://www.cbssports.com/college-football/news/ohio-state-vs-notre-dame-score-takeaways-no-2-buckeyes-battle-back-to-overcome-no-5-fighting-irish/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/09/04/6c1c34e7-18ec-4b61-807e-bf4c158fec68/thumbnail/1200x675/95300e6d6548382cd5f1cc1b8adea95c/chip-trayanum-usatsi.jpg",
+            "publishedAt": "2022-09-04T03:41:00Z",
+            "content": "No. 2 Ohio State overcame lackluster play and an injury to one of their star players while battling back and ultimately beating No. 5 Notre Dame 21-10 in an exciting season opener. The Buckeyes trail… [+5172 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Mayors Helping Jackson In Water Crisis - 16 WAPT News Jackson",
+            "description": "Houston mayor offers helping hand during Jackson water crisisSubscribe to WAPT on YouTube now for more: http://bit.ly/1hYcJNaGet more Jackson news: http://ww...",
+            "url": "https://www.youtube.com/watch?v=2Uf9pOVdi8Q",
+            "urlToImage": "https://i.ytimg.com/vi/2Uf9pOVdi8Q/hqdefault.jpg",
+            "publishedAt": "2022-09-04T03:32:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Liz Truss and Rishi Sunak to face questions over cost-of-living policies - BBC",
+            "description": "The two contenders to become PM are set be asked about their proposals for office on BBC One.",
+            "url": "https://www.bbc.com/news/uk-politics-62784323",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1084/production/_126582240_rishiandliz.jpg",
+            "publishedAt": "2022-09-04T03:18:29Z",
+            "content": "By James GregoryBBC News\r\nThe two contenders to become the next PM face questions about their cost-of-living policies - a day before the result of the Tory leadership contest. \r\nLiz Truss and Rishi S… [+3603 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Carolyn Giardina",
+            "title": "Creative Arts Emmys Night One Winners List – The Hollywood Reporter - Hollywood Reporter",
+            "description": "The Beatles: Get Back and Adele: One Night Only won five awards apiece during the first of the two-night presentation of the Creative Arts Emmys on Saturday at the Microsoft Theater in Los Angeles. The Beatles: Get Back delivered two Emmys to Peter Jackson, f…",
+            "url": "https://www.hollywoodreporter.com/tv/tv-news/creative-arts-emmys-night-one-winners-list-1235207142/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/09/Winners-Creative-Emys-2022_07-emmy_noms_template-01.jpg?w=1024",
+            "publishedAt": "2022-09-04T02:38:31Z",
+            "content": "The Beatles: Get Back and Adele: One Night Only won five awards apiece during the first of the two-night presentation of the Creative Arts Emmys on Saturday at the Microsoft Theater in Los Angeles.\r\n… [+46069 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSL.com"
+            },
+            "author": "Josh Furlong, KSL.com",
+            "title": "Cam Rising throws interception in end zone as Florida escapes with 29-26 win - KSL.com",
+            "description": "Utah head coach Kyle Whittingham compared him to Cam Newton. Whatever the comparison, Florida's Anthony Richardson was a nightmare to handle for the Utes.",
+            "url": "https://www.ksl.com/article/50469337/cam-rising-throws-interception-in-end-zone-as-florida-escapes-with-29-26-win",
+            "urlToImage": "https://img.ksl.com/slc/2891/289159/28915903.jpeg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2022-09-04T02:33:38Z",
+            "content": "Estimated read time: 5-6 minutes\r\nGAINESVILLE Utah head coach Kyle Whittingham compared him to Cam Newton before the game. Whatever the comparison, Florida's Anthony Richardson was a nightmare to han… [+5357 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Ciryl Gane: 'I Want to go Back to the Belt, I Want my Chance Another Time' | UFC Paris - UFC - Ultimate Fighting Championship",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DadDSRQjibLY",
+            "urlToImage": null,
+            "publishedAt": "2022-09-04T02:29:33Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Davone Morales, Stephanie Guerilus, Jessie DiMartino",
+            "title": "1 dead, 3 wounded in 7-Eleven shooting in Maryland: Police - ABC News",
+            "description": "One adult male was pronounced dead, authorities said.",
+            "url": "https://abcnews.go.com/US/dead-wounded-eleven-shooting-maryland-police/story?id=89290378",
+            "urlToImage": "https://s.abcnews.com/images/General/Breaking-News-banner-abc-ps-181024_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-09-04T01:44:36Z",
+            "content": "Prince George's County Police confirmed to ABC News that one person is dead, and three others were injured following a shooting near a 7-Eleven store in Capitol Heights, Maryland, Saturday evening.\r\n… [+706 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Alix Breeden",
+            "title": "Oliver Shane Hawkins plays drums on 'My Hero' to honor late dad Taylor during Foo Fighters tribute - New York Post ",
+            "description": "Sixteen-year-old Oliver Shane Hawkins played the drums during “My Hero” in place of his father in London for the “Taylor Hawkins Tribute Concert.”",
+            "url": "https://nypost.com/2022/09/03/taylor-hawkins-son-oliver-shane-plays-drums-during-foo-fighters-tribute/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/09/newspress-collage-23730898-1662252835298.jpg?quality=75&strip=all&1662238475&w=1024",
+            "publishedAt": "2022-09-04T01:07:00Z",
+            "content": "To him, dad was not so ordinary a hero. \r\nThe son of late Foo Fighters drummer Taylor Hawkins performed onstage in memory of his father Saturday night.\r\nSixteen-year-old Oliver Shane Hawkins played d… [+1416 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Joseph Menn, Taylor Lorenz",
+            "title": "Cloudflare drops KiwiFarms - The Washington Post",
+            "description": "Cloudfare Chief Executive Matthew Prince told The Washington Post he would no longer protect the site becaause of a surge in credible violent threats stemming from the site.",
+            "url": "https://www.washingtonpost.com/technology/2022/09/03/cloudflare-drops-kiwifarms/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZCUPXFRIVUI63KIK7TSACXP4R4.jpg&w=1440",
+            "publishedAt": "2022-09-04T00:43:51Z",
+            "content": "Comment on this story\r\nSAN FRANCISCO Reversing course under growing public pressure, major tech security company Cloudflare announced Saturday that it will stop protecting the Kiwi Farms website, bes… [+8250 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Jane Clinton, Léonie Chao-Fong, Christy Cooney",
+            "title": "Russia-Ukraine war latest: what we know on day 193 of the invasion - The Guardian",
+            "description": "Zaporizhzhia nuclear plant relying on reserve power line amid shelling; EU says it will meet energy challenge if Russia fails to deliver on gas contracts",
+            "url": "https://amp.theguardian.com/world/2022/sep/04/russia-ukraine-war-latest-what-we-know-on-day-193-of-the-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/9b84e5aa3f3d539c23a9645e73cb11bdf8bbb445/0_3_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85c5c5fb15b78b54384cb8772fd52599",
+            "publishedAt": "2022-09-04T00:36:00Z",
+            "content": "<li>The Zaporizhzhia nuclear power plant has been disconnected from its last remaining main power line to the grid and is relying on a reserve line, the International Atomic Energy Agency said. Previ… [+3060 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Johanna Chisholm",
+            "title": "Texas Governor Abbott says rape victims can take Plan B instead of having abortions - The Independent",
+            "description": "The Republican governor made the statements during a local radio programme, scheduled to be aired on Sunday",
+            "url": "https://www.independent.co.uk/news/world/americas/us-politics/greg-abbott-plan-b-abortion-rape-b2159174.html",
+            "urlToImage": "https://static.independent.co.uk/2022/08/20/16/BIDEN-INFLACI%C3%93N-REPUBLICANOS_49585.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2022-09-03T23:33:15Z",
+            "content": "Texas Governor Greg Abbott posed a lukewarm solution this week when challenged about his states abortion ban that makes no exception for rape or incest: take Plan B.\r\nThe Republican governors horribl… [+4510 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Alleged Google Pixel 7 Pro appears in unboxing video ahead of launch - The Verge",
+            "description": "A video showing what looks like the Google Pixel 7 Pro was posted to Facebook by a technology shop based in Bangladesh.",
+            "url": "https://www.theverge.com/2022/9/3/23336007/google-pixel-7-pro-unboxing-video-launch-leak-rumors",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Pe6G3OaA_O3i0y6jPwklTR8wr1k=/0x300:998x823/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23994133/pixel_7_pro_unboxing.png",
+            "publishedAt": "2022-09-03T23:03:11Z",
+            "content": "Googles fall event is around the corner\r\nThe device shows the faint Google logo on its rear.\r\nImage: Gadgetfull BD\r\nWhat appears to be the upcoming Google Pixel 7 Pro surfaced in a brief unboxing vid… [+1617 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Mark Schlabach",
+            "title": "'We've got better players': Georgia Bulldogs begin title defense with easy victory over Oregon Ducks - ESPN",
+            "description": "Defending national champion Georgia might have lost 15 players to the NFL draft, but the No. 3 Bulldogs looked just fine in the first game of their title defense, blasting No. 11 Oregon 49-3 at Mercedes-Benz Stadium in Atlanta on Saturday.",
+            "url": "https://www.espn.com/college-football/story/_/id/34519264/georgia-bulldogs-begin-title-defense-easy-victory-oregon-ducks",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0904%2Fr1057010_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-09-03T22:53:35Z",
+            "content": "ATLANTA -- Defending national champion Georgia might have lost 15 players to the NFL draft, but the No. 3 Bulldogs looked just fine in the first game of their title defense, blasting No. 11 Oregon 49… [+3052 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Adam Sabes",
+            "title": "Abducted Eliza Fletcher: Memphis police say 'vehicle of interest' located, male detained, Eliza still missing - Fox News",
+            "description": "Memphis police say that they have located a \"vehicle of interest\" and also said that one person has been arrested, but the missing mother has not been found.",
+            "url": "https://www.foxnews.com/us/abducted-eliza-fletcher-memphis-police-say-vehicle-interest-located-male-detained-eliza-still-missing",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/Eliza-Fletcher-Memphis-Police-Department.jpg",
+            "publishedAt": "2022-09-03T22:51:03Z",
+            "content": "Memphis police say that a \"vehicle of interest\" has been located and added that one male in the car has been arrested, but the abducted kindergarten teacher Eliza Fletcher\r\n is still missing.\r\nPolice… [+2505 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jon Levine",
+            "title": "Pennsylvania iron workers blast Biden's student loan forgiveness - New York Post ",
+            "description": "Blue collar Pennsylvania iron workers took a harsh view of President Biden’s $500 billion student loan giveaway.",
+            "url": "https://nypost.com/2022/09/03/pennsylvania-iron-workers-blast-bidens-student-loan-forgiveness/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/09/newspress-collage-23728829-1662240491396.jpg?quality=75&strip=all&1662226466&w=1024",
+            "publishedAt": "2022-09-03T22:02:00Z",
+            "content": "Blue collar Pennsylvania iron workers took a harsh view of President Biden’s $500 billion student loan giveaway, with many saying it was unfair to those who didn’t take on expensive debt for their de… [+1148 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Hanna Howard",
+            "title": "Amazon says 'The Lord of the Rings: The Rings of Power' watched by more than 25 million globally - CNBC",
+            "description": "Amazon says 'The Lord of the Rings: The Rings of Power' drew more than 25 million globally.",
+            "url": "https://www.cnbc.com/2022/09/03/amazon-says-the-rings-of-power-watched-by-more-than-25-million.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107113640-1662243133131-gettyimages-1242821181-dmb_2491.jpeg?v=1662243179&w=1920&h=1080",
+            "publishedAt": "2022-09-03T21:33:17Z",
+            "content": "Amazon said Saturday that the first episode of its \"The Lord of the Rings: The Rings of Power\" series attracted over 25 million viewers globally in its first day, making it the biggest ever debut for… [+1004 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Xander Landen",
+            "title": "Ukraine Plans 'Systemic Grinding' of Putin's Army to Take Kherson: Official - Newsweek",
+            "description": "A Ukrainian presidential adviser said forces are seeking to uncover Russia's \"operational logistical supply system and destroy it with artillery.\"",
+            "url": "https://www.newsweek.com/ukraine-plans-systemic-grinding-putins-army-take-kherson-official-1739670",
+            "urlToImage": "https://d.newsweek.com/en/full/2109631/ukraine-plans-systemic-grinding-putins-army.jpg",
+            "publishedAt": "2022-09-03T21:00:22Z",
+            "content": "As Ukraine seeks to regain Kherson—a city that Russia has occupied since the beginning of its invasion—the Ukrainian strategy involves \"the systemic grinding of Putin's army\" an adviser to Ukrainian … [+2677 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Mystery respiratory illness kills two health care workers and patient at clinic, sickens six others in Argentina - CBS News",
+            "description": "The mystery disease claimed its first victim among health personnel at the clinic on Monday and a second two days later.",
+            "url": "https://www.cbsnews.com/news/mystery-pneumonia-deaths-argentina/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/03/0fce0f9f-2c16-4812-8075-869568f9840a/thumbnail/1200x630/8986284196fe8aa22efe9a55dcf6cb8c/a5f4u0zc.jpg",
+            "publishedAt": "2022-09-03T19:52:27Z",
+            "content": "A third person has died this week in Argentina from a type of pneumonia of unknown origin, with the fatalities thus far limited to a single clinic, health authorities said Thursday.\r\nNine people in n… [+2758 chars]"
+        }
+    ]
+}
